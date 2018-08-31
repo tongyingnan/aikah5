@@ -1,0 +1,24 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
